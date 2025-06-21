@@ -186,9 +186,6 @@ A comprehensive full-stack learning management system built with React, Node.js,
 ## 📂 Project Structure
 
 ### Client Side (`/frontend`)
-
----
-
 frontend
 │
 ├── node_modules
@@ -222,9 +219,6 @@ frontend
 ---
 
 ### Server Side (`/backend`)
-
----
-
 backend
 │
 ├── middleware/ 
@@ -239,8 +233,6 @@ backend
 ├── package-lock.json 
 ├── server.js 
 ├── README.md
-
----
 
 ---
 ## 🌐 API Endpoints
