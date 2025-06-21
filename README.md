@@ -188,6 +188,7 @@ A comprehensive full-stack learning management system built with React, Node.js,
 ### Client Side (`/frontend`)
 
 ---
+
 frontend
 │
 ├── node_modules
@@ -223,6 +224,7 @@ frontend
 ### Server Side (`/backend`)
 
 ---
+
 backend
 │
 ├── middleware/ 
