@@ -103,30 +103,13 @@ const ResumeUploader: React.FC = () => {
                   className="hidden"
                   id="resume-upload"
                 />
-                <label html For="resume-upload">
-                  <Button className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700">
-                    <Upload className="h-4 w-4 mr-2" />
-                    Choose File
-                  </Button>
-                </label>
+               
               </div>
             )}
           </div>
         </CardContent>
       </Card>
 
-      {uploadedFile && (
-        <Card className="bg-white/70 backdrop-blur-sm border border-white/20 shadow-xl">
-          <CardHeader>
-            <CardTitle>Resume Preview</CardTitle>
-          </CardHeader>
-          <CardContent>
-            <div className="bg-gray-100 rounded-lg p-4 text-center">
-              <p className="text-gray-600">Preview will be available after backend integration</p>
-            </div>
-          </CardContent>
-        </Card>
-      )}
     </div>
   );
 };
