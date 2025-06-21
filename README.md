@@ -22,7 +22,7 @@ A comprehensive full-stack learning management system built with React, Node.js,
 ## 👨‍💻 Demo Accounts
 - **Login Accounts**:
 - Regular User:
-- Email: rsmadhiarasi@gmail.com
+- Email: mostlyself@gmail.com
 - Password: Madhi@16
 - Admin User:
 - Email: admin@edu.com
