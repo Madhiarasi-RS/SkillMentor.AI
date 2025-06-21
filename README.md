@@ -186,6 +186,8 @@ A comprehensive full-stack learning management system built with React, Node.js,
 ## 📂 Project Structure
 
 ### Client Side (`/frontend`)
+
+---
 frontend
 │
 ├── node_modules
@@ -215,11 +217,12 @@ frontend
 ├── package.json 
 ├── vite.config.ts
 └── .gitignore
-```
 
-### Server Side (`/server`)
+---
 
-```
+### Server Side (`/backend`)
+
+---
 backend
 │
 ├── middleware/ 
@@ -237,6 +240,7 @@ backend
 
 ---
 
+---
 ## 🌐 API Endpoints
 
 ### Authentication
