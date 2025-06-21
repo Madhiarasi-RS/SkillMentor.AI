@@ -184,57 +184,50 @@ A comprehensive full-stack learning management system built with React, Node.js,
 
 ---
 ## 📂 Project Structure
-
-### Client Side (`/frontend`)
+### 🚀 Client Side (`/frontend`)
 frontend
-│
 ├── node_modules
 ├── public
 ├── src
-│ ├── assets 
-│ ├── components 
-│ │ ├── admin
-│ │ ├── auth
-│ │ ├── courses
-│ │ ├── shared
-│ │ ├── student
-│ │ ├── ui
-│ │ └── LandingPage.tsx
-│ ├── contexts
-│ ├── hooks
+│ ├── assets
+│ ├── components
+│ ├── admin
+│ ├── auth 
+│ ├── courses
+│ ├── shared 
+│ ├── student
+│ ├── ui 
+│ ├── LandingPage.tsx
+│ ├── contexts 
+│ ├── hooks 
 │ ├── lib 
 │ ├── pages 
 │ ├── services 
-│ ├── utils
+│ ├── utils 
 │ ├── App.tsx 
 │ ├── index.css 
 │ ├── main.tsx 
 │ └── vite-env.d.ts
-│
-├── index.html 
-├── package.json 
+├── index.html
+├── package.json
 ├── vite.config.ts
 └── .gitignore
-
----
-
-### Server Side (`/backend`)
+### 🌐 Server Side (`/backend`)
 backend
-│
-├── middleware/ 
-├── models/ 
-├── node_modules/
-├── routes/ 
-├── scripts/ 
-├── utils/ 
-│
+├── middleware 
+├── models 
+├── node_modules
+├── routes 
+├── scripts 
+├── utils # Helper utilities
 ├── .env 
 ├── package.json
-├── package-lock.json 
+├── package-lock.json
 ├── server.js 
-├── README.md
+└── README.md
 
 ---
+
 ## 🌐 API Endpoints
 
 ### Authentication
